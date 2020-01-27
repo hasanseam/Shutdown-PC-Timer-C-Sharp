@@ -1,0 +1,9 @@
+c:\users\hasan seam\documents\visual studio 2012\Projects\Shutdown PC\Shutdown PC\bin\Debug\Shutdown PC.exe.config
+c:\users\hasan seam\documents\visual studio 2012\Projects\Shutdown PC\Shutdown PC\bin\Debug\Shutdown PC.exe
+c:\users\hasan seam\documents\visual studio 2012\Projects\Shutdown PC\Shutdown PC\bin\Debug\Shutdown PC.pdb
+c:\users\hasan seam\documents\visual studio 2012\Projects\Shutdown PC\Shutdown PC\obj\Debug\Shutdown PC.csprojResolveAssemblyReference.cache
+c:\users\hasan seam\documents\visual studio 2012\Projects\Shutdown PC\Shutdown PC\obj\Debug\Shutdown_PC.Form1.resources
+c:\users\hasan seam\documents\visual studio 2012\Projects\Shutdown PC\Shutdown PC\obj\Debug\Shutdown_PC.Properties.Resources.resources
+c:\users\hasan seam\documents\visual studio 2012\Projects\Shutdown PC\Shutdown PC\obj\Debug\Shutdown PC.csproj.GenerateResource.Cache
+c:\users\hasan seam\documents\visual studio 2012\Projects\Shutdown PC\Shutdown PC\obj\Debug\Shutdown PC.exe
+c:\users\hasan seam\documents\visual studio 2012\Projects\Shutdown PC\Shutdown PC\obj\Debug\Shutdown PC.pdb
